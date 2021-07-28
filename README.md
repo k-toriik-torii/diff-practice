@@ -1,3 +1,3 @@
 # diff-practice
 Git動画講座diff練習用
-rebase用
+rebase pull用
